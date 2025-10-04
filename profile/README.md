@@ -18,7 +18,7 @@
 <!-- Stack -->
 <h3 align="center">🛠️ Tecnologie</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mongoose" height="60" alt="Tecnologie"/>
+  <img src="https://skillicons.dev/icons?i=js,mongodb" height="60" alt="Tecnologie"/>
 </p>
 
 ---
