@@ -5,35 +5,45 @@
 
 <h3 align="center">🤖 Il bot Discord ufficiale di HyperGames 🎮</h3>
 
+<p align="center">
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-HyperGames-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Versione-1.0.0-blueviolet?style=for-the-badge" alt="Versione"/></a>
+  <a href="#"><img src="https://img.shields.io/github/license/HyperGames/HyperGameBot?style=for-the-badge" alt="Licenza"/></a>
+</p>
+
+---
+
+<!-- Descrizione -->
+<h3 align="center">📖 Descrizione</h3>
+
+<p align="center">
+  <b>HyperGame Bot</b> è il compagno ideale per la community <b>HyperGames</b>!  
+  Offre strumenti avanzati per gestire il server, creare esperienze di gioco interattive  
+  e mantenere la community attiva e coinvolta. 🚀
+</p>
+
 ---
 
 <!-- Funzionalità -->
 <h3 align="center">✨ Funzionalità principali</h3>
+
 <p align="center">
-  Presto in arrivo ... 
+  💠 <b>Minigiochi Vocali:</b> sfide divertenti direttamente nelle chat vocali<br/>
+  💠 <b>Minigiochi Automatici:</b> eventi casuali per intrattenere gli utenti<br/>
+  💠 <b>Sistema di Badge:</b> ottieni riconoscimenti unici per le tue attività<br/>
+  💠 <b>Profilo Personalizzabile:</b> personalizza il tuo profilo e mostra i tuoi successi<br/>
+  <i>...e molto altro in arrivo!</i>
 </p>
 
 ---
 
 <!-- Stack -->
-<h3 align="center">🛠️ Tecnologie</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mongodb" height="60" alt="Tecnologie"/>
-</p>
-
----
-
-
-<!-- Stats -->
-<h3 align="center">📊 Dashboard Statistiche Repository</h3>
+<h3 align="center">🛠️ Tecnologie utilizzate</h3>
 
 <p align="center">
-  <!-- Stars e Forks per repo 1 -->
-  <strong>RepoPrincipale</strong><br>
-  <img src="https://img.shields.io/github/stars/HyperGame-org/HyperGames-Bot?style=for-the-badge&color=E100FF&logo=github&logoColor=ffffff" alt="Stars RepoPrincipale"/>
-  <img src="https://img.shields.io/github/forks/HyperGame-org/HyperGames-Bot?style=for-the-badge&color=7F00FF&logo=git&logoColor=ffffff" alt="Forks RepoPrincipale"/>
-  <img src="https://img.shields.io/github/languages/top/HyperGame-org/HyperGames-Bot?style=for-the-badge&color=ff4ddb&logo=code&logoColor=ffffff" alt="Linguaggi RepoPrincipale"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,discord" height="60" alt="Stack Tecnologico"/>
 </p>
+
 
 ---
 
